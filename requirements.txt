@@ -2,3 +2,4 @@ langchain
 embeddings
 ollama
 torch
+transformers
